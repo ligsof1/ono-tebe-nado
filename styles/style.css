@@ -39,7 +39,7 @@ nav ul {
   width: 136px;
 }
 
-address{
+address {
   list-style: none;
   font-style: normal;
   line-height: 23px;
@@ -51,7 +51,7 @@ address a {
   color: #000000;
 }
 
-address p  {
+address p {
   padding-top: 2px;
 }
 
@@ -120,7 +120,7 @@ address p  {
   word-spacing: 18.5px;
 }
 
-.description button{
+.description button {
   height: 51px;
   width: 256px;
   margin: 106px 0 0 108px;
@@ -289,7 +289,7 @@ address p  {
   width: 687px;
 }
 
-.about--column--text__bottom{
+.about--column--text__bottom {
   padding-top: 24px;
   width: 693px;
 }
@@ -342,7 +342,7 @@ footer {
 }
 
 
-.nav--footer__underline {
+.nav--footer ul li:first-child {
   text-decoration: none;
 }
 
